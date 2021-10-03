@@ -1,11 +1,8 @@
-title: Khalids Portfolio
-author: Khalid Elhousieny
-email: khalidrany@hotmail.com 
+title: "Khalids Portfolio"
+author: "Khalid Elhousieny"
+email: "khalidrany@hotmail.com"
 theme: minima
-description: | # this means to ignore newlines until "baseurl:"
-Welcome; this is where you can learn more about me and my work. You can find my resume on this page, so
-go ahead and take a look. I am an aspiring entrepreneur, and I'm also looking for software engineering
-opportunities. 
+description: | Welcome; this is where you can learn more about me and my work. You can find my resume on this page, so | go ahead and take a look. I am an aspiring entrepreneur, and I'm also looking for software engineering opportunities.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
